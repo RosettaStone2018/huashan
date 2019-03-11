@@ -5,3 +5,4 @@ Emulate
 	Sons are traditionally expected to emulate their fathers.
 
 Asterisk
+	We often use some special symbol such as comma,asterisk.
